@@ -1,2 +1,3 @@
 title: [Everyone is Jealous of Elise]
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
